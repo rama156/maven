@@ -28,7 +28,7 @@ public class c1 {
 		}
 		Thread.sleep(3000);
 		log.info("closing");
-		ob.quit();
+		
 		
 	}
 
